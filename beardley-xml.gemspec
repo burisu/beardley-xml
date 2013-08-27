@@ -5,7 +5,7 @@ require 'beardley/xml/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "beardley-xml"
-  spec.version       = Beardley::Xml::VERSION
+  spec.version       = Beardley::XML::VERSION
   spec.authors       = ["Brice Texier"]
   spec.email         = ["burisu@oneiros.fr"]
   spec.summary       = %q{XML jars for Beardley}
